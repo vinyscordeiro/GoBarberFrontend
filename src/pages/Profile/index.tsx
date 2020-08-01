@@ -28,7 +28,7 @@ const Profile: React.FC = () => {
   const { addToast } = useToast();
   const history = useHistory();
 
-  const  { user, updateUser } = useAuth();
+  const  { user, updateUser } = useAuth( );
 
   const handleSubmit = useCallback(async(data: ProfileFormData) => {
     
