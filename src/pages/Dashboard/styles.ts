@@ -220,11 +220,12 @@ export const Appointment = styled.div`
 `;
 
 export const Calendar = styled.aside`
-  width: 380px;
+  width: 390px;
 
   .DayPicker {
     background: #28262e;
     border-radius: 10px;
+    padding-right: 30px;
   }
   
   .DayPicker-wrapper {

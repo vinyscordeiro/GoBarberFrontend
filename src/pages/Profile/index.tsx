@@ -133,9 +133,15 @@ const Profile: React.FC = () => {
           email: user.email,
         }} onSubmit={handleSubmit}>
           <AvatarInput>
-            <img src={user.avatar_url} alt={user.name}/> 
+            <img 
+              src={
+                user.avatar_url ||
+                'https://arquivos-gobarber.s3.eu-west-2.amazonaws.com/placeholder-user-400x400.png'
+              } 
+              alt={user.name}
+            /> 
             <label htmlFor="avatar">
-              <FiCamera />
+              <FiCamera size={20}/>
               <input type="file" id="avatar" onChange={handleAvatarChange}/>
             </label>
           </AvatarInput>
