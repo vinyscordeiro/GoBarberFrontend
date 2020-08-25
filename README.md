@@ -24,3 +24,25 @@ Made by Vinicius Cordeiro on the GoStack Rocketseat bootcamp , this page is resp
   <li>uuidv4</li>
   <li>yup</li>
 <ul>
+
+<h1>Getting started</h1>
+
+Requirements
+
+Have this application's API running
+
+Clone the project and access the folder
+
+$ git clone https://github.com/vinyscordeiro/GoBarberFrontend.git 
+
+# Install the dependencies
+$ yarn
+
+# You need to configure the file 'src/services/api.ts' with your IP on API connection
+
+# You need to start the metro bundle with this command:
+$ yarn start
+
+# And start the emulator with:
+$ yarn android
+
