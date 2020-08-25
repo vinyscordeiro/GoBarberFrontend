@@ -29,16 +29,16 @@ Made by Vinicius Cordeiro on the GoStack Rocketseat bootcamp , this page is resp
 
 Requirements
 
-Have this application's API running
+<h5>Have this application's API running</h5>
 
-Clone the project and access the folder
+<h5>Clone the project and access the folder</h5>
 
 $ git clone https://github.com/vinyscordeiro/GoBarberFrontend.git 
 
 <h2>Install the dependencies</h2>
 $ yarn
 
-<h2>You need to configure the file 'src/services/api.ts' with your IP on API connections</h2>
+<h5>You need to configure the file 'src/services/api.ts' with your IP on API connections</h5>
 
 <h2>You need to start the metro bundle with this command</h2>
 $ yarn start
