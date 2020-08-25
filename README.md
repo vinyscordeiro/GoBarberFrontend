@@ -1,10 +1,10 @@
 <h1> About the project </h1>
 
-Made by Vinicius Cordeiro on the Rocketseat bootcamp GoStack, this page is responsable about the Barbers appointments and it can be acessed on http://gobarber.develitt.com. For information and the code of the API (Click here) or the Mobile frontend (CLick Here).
+Made by Vinicius Cordeiro on the GoStack Rocketseat bootcamp , this page is responsable of the Barbers appointments and it can be acessed on http://gobarber.develitt.com. For more information and the code of the API (Click here) or the Mobile frontend (Click Here).
 
 <img src="https://arquivos-gobarber.s3.eu-west-2.amazonaws.com/Logon.png" alt="" />
 
-<h2> Techonologies used </h2>
+<h2> Technologies used </h2>
 
 <ul>
   <li>Axios</li>
