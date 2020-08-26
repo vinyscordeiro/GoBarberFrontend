@@ -40,9 +40,6 @@ $ yarn
 
 <h5>You need to configure the file 'src/services/api.ts' with your IP on API connections</h5>
 
-<h2>You need to start the metro bundle with this command</h2>
+<h2>You need to start the web application with:</h2>
 $ yarn start
-
-<h2>And start the emulator with:</h2>
-$ yarn android
 
