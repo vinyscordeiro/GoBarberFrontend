@@ -1,6 +1,7 @@
 <h1> About the project </h1>
 
-Made by Vinicius Cordeiro on the GoStack Rocketseat bootcamp , this page is responsable of the Barbers appointments and it can be acessed on http://gobarber.develitt.com. For more information and the code of the API (Click here) or the Mobile frontend (Click Here).
+Made by Vinicius Cordeiro on the GoStack Rocketseat bootcamp , this page is responsable for users scheduling their appointments with the Barbers available. 
+For more information and the code of the API <a href="https://github.com/vinyscordeiro/GoBarber-Backend">(Click here)</a> or the Mobile <a href="https://github.com/vinyscordeiro/GoBarber-Mobile">(Click here)</a>.
 
 <img src="https://arquivos-gobarber.s3.eu-west-2.amazonaws.com/Logon.png" alt="" />
 
