@@ -16,24 +16,29 @@ export const Container = styled.div<ContainerProps>`
   color: #666360;
 
   display: flex;
-  align-items: center;
   
   & + div {
       margin-top: 8px;
   }
 
-  ${props => props.isErrored && css`
-    border-color: #c53030;
-  `}
+  ${props =>
+    props.isErrored &&
+    css`
+      border-color: #c53030;
+    `}
 
-  ${props => props.isFocused && css`
-    color: #ff9000;
-    border-color: #ff9000;
-  `}
+  ${props =>
+    props.isFocused &&
+    css`
+      color: #ff9000;
+      border-color: #ff9000;
+    `}
 
-  ${props => props.isFilled && css`
-    color: #ff9000;
-  `}
+  ${props =>
+    props.isFilled &&
+    css`
+      color: #ff9000;
+    `}
 
   input{
     flex: 1;
